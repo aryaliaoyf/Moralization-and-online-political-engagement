@@ -18,4 +18,5 @@ While scraping:
 
 ### Comments
 Please have a .csv file with posts of interest, make sure your have mid and uid
+
 Run the script weibo_comments.ipynb
