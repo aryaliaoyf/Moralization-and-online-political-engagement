@@ -2,7 +2,7 @@
 
 ### Posts
 To scrape posts, please create a .txt file "info.txt" as following:
-{"keyword": "your keyword", "start_time": "yyyy-mm-hh-mm", "end_time": "yyyy-mm-hh-mm", "page":1}
+{"keyword": "your keyword", "start_time": "yyyy-mm-dd-hh", "end_time": "yyyy-mm-dd-hh", "page":1}
 
 please create a .txt file "cookie.txt", and save your cookie.
 
